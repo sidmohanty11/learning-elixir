@@ -8,6 +8,8 @@ mix new <project_name>
 iex -S mix
 ```
 
+## Flow
+
 CODE => ELIXIR => ERLANG => BEAM
 
 Generate free docs!
@@ -18,4 +20,9 @@ mix docs
 Testing!
 ```elixir
 mix test
+```
+
+For getting all dependancies!
+```elixir
+mix deps.get
 ```
