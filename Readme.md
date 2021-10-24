@@ -9,3 +9,13 @@ iex -S mix
 ```
 
 CODE => ELIXIR => ERLANG => BEAM
+
+Generate free docs!
+```elixir
+mix docs
+```
+
+Testing!
+```elixir
+mix test
+```
